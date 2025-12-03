@@ -1,86 +1,280 @@
+<!-- Banner / Header -->
 <h1 align="center">🎬 Pagadoju Umesh</h1>
-<h3 align="center">Full Stack Developer • Android Developer • Creative Technologist • Storytelling Enthusiast</h3> <p align="center"> <img src="https://github.com/25umesh.png" width="130" style="border-radius:50%;" /> </p>
-🌟 About Me
+<h3 align="center">Full Stack Developer | Android Developer | Creative Technologist | Director of Ideas</h3>
 
-I’m Pagadoju Umesh, a passionate Full Stack Developer currently pursuing my B.Tech (3rd Year) at
-Methodist College of Engineering and Technology.
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00C0FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Android+Developer;Creative+Technologist;Content+Creator+%26+Director;Building+AI+Document+Brain" alt="Typing SVG" />
+</p>
 
-I build web & Android applications that blend clean engineering, modern design, and cinematic user experience.
-My work focuses on:
+---
 
-Clean architecture & scalable systems
+## 🌟 About Me  
 
-User-centric UI/UX
+I’m **Pagadoju Umesh**, a passionate **Full Stack Developer** currently pursuing my **B.Tech (3rd Year)** at  
+**Methodist College of Engineering and Technology**.
 
-Real-world problem-solving
+I specialize in building **web and Android applications**, taking products from **idea → architecture → development → deployment**.  
+My work merges **technology, creativity, and direction**, helping me design meaningful digital experiences.
 
-Creative presentation & polished execution
+Beyond engineering, I’m also a **content creator** skilled in:
+- 🎥 Video editing  
+- 📸 Photography  
+- 🎬 Videography  
+- 🧠 Digital storytelling  
 
-🎥 Outside development, I work in video editing, photography & cinematography, which shaped my ability to visualise flow, pacing, and story.
-This creative influence impacts how I design, animate, and direct digital experiences.
+I previously built a **YouTube channel with 1,000+ subscribers** grown through original content.  
+Although the channel was lost, the journey strengthened my creative direction, content strategy, and audience engagement skills.
 
-📹 Previously built a YouTube channel with 1k+ subscribers grown purely through original content before it was lost due to technical issues. This journey strengthened my skills in:
+---
 
-Audience engagement
+## 🎯 Vision  
+To blend **Software Engineering + Creativity + Storytelling**  
+and build products that feel **cinematic, innovative, and impactful**.
 
-Creative direction
+---
 
-Storytelling
+# 🚧 Currently Building: **AI Document Brain — Upload → Search → Chat → Action**  
 
-Editing consistency
+A next-generation AI system that transforms documents into an **intelligent knowledge brain**.
 
-Digital brand building
+### 📂 What It Does  
+Users upload:
+- PDFs  
+- Notes  
+- Images  
+- Handwritten documents  
 
-🧠 My goal:
-To merge technology, creativity, and storytelling — building experiences that are functional, emotional, and crafted.
+And the system automatically **reads → understands → stores → answers questions**.
 
-🚀 Featured Project
-🧠 AI Document Brain — Transforming Notes into Searchable Intelligence
+---
 
-A system that converts static notes into an interactive knowledge engine using:
+## 🧠 Technical Architecture  
 
-OCR
+### 📝 **1. Data Extraction**
+- OCR using **Tesseract / EasyOCR**
 
-Semantic embeddings
+### ⚙️ **2. Text Processing**
+- Text cleaning  
+- Smart chunking  
 
-Vector search
+### 🧬 **3. Embedding Model**
+- Custom embedding model built **from scratch**
 
-Intelligent document chat
+### 🗄️ **4. Vector Database**
+- Semantic search with embeddings  
 
-Auto-summaries
+### 🤖 **5. Custom LLM**
+- Fine-tuned for document comprehension  
+- Supports Q&A, summarization, rewriting  
 
-🎯 Purpose:
-Help users access their knowledge faster, smarter, and more intuitively.
+### 🧩 **6. Chat + Backend Layer**
+- Chat UI  
+- Backend: **FastAPI / Django**  
+- Modular and scalable pipeline  
 
-🛠️ Tech Stack
-<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,firebase,androidstudio,python,opencv" height="45"/> </p>
-🧰 Tools I Use
-<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux" height="45"/> </p>
-🎞️ Creative Direction + Editing
+---
 
-I treat every project — whether an app or a video — like a directed experience.
+## 🚀 Advanced Features (Upcoming)
 
-📌 Strong areas:
+- 🔎 Multi-document summarization  
+- 🧠 Document → Mindmap generator  
+- ❓ Automatic quiz creator  
+- 📝 AI report writer  
+- 📌 Cross-document semantic search  
 
-Cinematic editing
+---
 
-Visual storytelling
+# 🧰 Tech Stack & Tools
 
-Smooth transitions & pacing
+### 🚀 **Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
 
-Composition & framing
+### 🖥️ **Frontend**
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 
-Story-driven design decisions
+### ⚙️ **Backend**
+![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 
-This gives my software projects a unique director’s touch.
+### 📱 **Mobile**
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
 
-🌐 Connect With Me
-<p align="left"> <a href="https://www.instagram.com/p_umesh25?igsh=cHFrMHE2OGJpdnho" target="_blank"> <img src="https://skillicons.dev/icons?i=instagram" height="40" /> </a>&nbsp;&nbsp; <a href="https://www.linkedin.com/in/25umesh" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" height="40" /> </a>&nbsp;&nbsp; <a href="mailto:pagadojuumesh869@gmail.com" target="_blank"> <img src="https://skillicons.dev/icons?i=gmail" height="40" /> </a>&nbsp;&nbsp; <a href="https://github.com/25umesh" target="_blank"> <img src="https://skillicons.dev/icons?i=github" height="40" /> </a> </p>
-📊 GitHub Stats & Activity
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=25umesh&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=25umesh&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=25umesh&layout=compact&theme=tokyonight&hide_border=true" height="170"/> </p>
-🏆 GitHub Achievements
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=25umesh&theme=onestar&no-frame=true&row=1&margin-w=20" /> </p>
-✨ Director’s Thought
-<h3 align="center"><i>"Code builds the function. Creativity builds the experience."</i></h3>
-🔍 Profile Views
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=25umesh&label=Profile%20Views&color=blueviolet&style=for-the-badge" /> </p>
+### 🛢️ **Database**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
+
+### 🤖 **AI / ML**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+
+---
+
+# 📂 Featured Projects  
+
+### 🔹 **AI Document Brain** *(In Progress)*  
+Transform documents into an intelligent searchable knowledge base.
+
+### 🔹 Full Stack Web Apps  
+Dynamic applications built with MERN / Django / FastAPI.
+
+### 🔹 Android Apps  
+Practical tools & creative applications for Android devices.
+
+---
+
+# 📫 Connect With Me  
+
+📧 **Email:** pagadojuumesh869@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/25umesh  
+📸 **Instagram:** https://www.instagram.com/p_umesh25?igsh=cHFrMHE2OGJpdnho  
+
+---
+
+⭐ *If you like my work or projects, consider giving a star — it keeps me building!*  
+<!-- Banner / Header -->
+<h1 align="center">🎬 Pagadoju Umesh</h1>
+<h3 align="center">Full Stack Developer | Android Developer | Creative Technologist | Director of Ideas</h3>
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00C0FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Android+Developer;Creative+Technologist;Content+Creator+%26+Director;Building+AI+Document+Brain" alt="Typing SVG" />
+</p>
+
+---
+
+## 🌟 About Me  
+
+I’m **Pagadoju Umesh**, a passionate **Full Stack Developer** currently pursuing my **B.Tech (3rd Year)** at  
+**Methodist College of Engineering and Technology**.
+
+I specialize in building **web and Android applications**, taking products from **idea → architecture → development → deployment**.  
+My work merges **technology, creativity, and direction**, helping me design meaningful digital experiences.
+
+Beyond engineering, I’m also a **content creator** skilled in:
+- 🎥 Video editing  
+- 📸 Photography  
+- 🎬 Videography  
+- 🧠 Digital storytelling  
+
+I previously built a **YouTube channel with 1,000+ subscribers** grown through original content.  
+Although the channel was lost, the journey strengthened my creative direction, content strategy, and audience engagement skills.
+
+---
+
+## 🎯 Vision  
+To blend **Software Engineering + Creativity + Storytelling**  
+and build products that feel **cinematic, innovative, and impactful**.
+
+---
+
+# 🚧 Currently Building: **AI Document Brain — Upload → Search → Chat → Action**  
+
+A next-generation AI system that transforms documents into an **intelligent knowledge brain**.
+
+### 📂 What It Does  
+Users upload:
+- PDFs  
+- Notes  
+- Images  
+- Handwritten documents  
+
+And the system automatically **reads → understands → stores → answers questions**.
+
+---
+
+## 🧠 Technical Architecture  
+
+### 📝 **1. Data Extraction**
+- OCR using **Tesseract / EasyOCR**
+
+### ⚙️ **2. Text Processing**
+- Text cleaning  
+- Smart chunking  
+
+### 🧬 **3. Embedding Model**
+- Custom embedding model built **from scratch**
+
+### 🗄️ **4. Vector Database**
+- Semantic search with embeddings  
+
+### 🤖 **5. Custom LLM**
+- Fine-tuned for document comprehension  
+- Supports Q&A, summarization, rewriting  
+
+### 🧩 **6. Chat + Backend Layer**
+- Chat UI  
+- Backend: **FastAPI / Django**  
+- Modular and scalable pipeline  
+
+---
+
+## 🚀 Advanced Features (Upcoming)
+
+- 🔎 Multi-document summarization  
+- 🧠 Document → Mindmap generator  
+- ❓ Automatic quiz creator  
+- 📝 AI report writer  
+- 📌 Cross-document semantic search  
+
+---
+
+# 🧰 Tech Stack & Tools
+
+### 🚀 **Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
+
+### 🖥️ **Frontend**
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+
+### ⚙️ **Backend**
+![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+
+### 📱 **Mobile**
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
+
+### 🛢️ **Database**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
+
+### 🤖 **AI / ML**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+
+---
+
+# 📂 Featured Projects  
+
+### 🔹 **AI Document Brain** *(In Progress)*  
+Transform documents into an intelligent searchable knowledge base.
+
+### 🔹 Full Stack Web Apps  
+Dynamic applications built with MERN / Django / FastAPI.
+
+### 🔹 Android Apps  
+Practical tools & creative applications for Android devices.
+
+---
+
+# 📫 Connect With Me  
+
+📧 **Email:** pagadojuumesh869@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/25umesh  
+📸 **Instagram:** https://www.instagram.com/p_umesh25?igsh=cHFrMHE2OGJpdnho  
+
+---
+
+⭐ *If you like my work or projects, consider giving a star — it keeps me building!*  
