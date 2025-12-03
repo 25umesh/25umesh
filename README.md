@@ -9,85 +9,40 @@
 
 ## 🚀 About Me
 
-I am a dedicated **Full Stack Developer** currently pursuing my **B.Tech (3rd Year)** at  
+I am a passionate **Full Stack Developer** currently pursuing my **B.Tech (3rd Year)** at  
 **Methodist College of Engineering and Technology**.
 
 💻 I build **Web Applications** and **Android Apps**, taking ideas from  
 **concept → design → development → deployment**.
 
-✨ I enjoy turning real-world problems into clean, efficient, and scalable solutions.
-
-🎥 Beyond tech, I’m a **content creator** with expertise in:
+🎥 I also create content in:
 - Video Editing  
 - Photography  
 - Cinematic Videography  
 - Digital Storytelling  
 
-📹 I built and grew a YouTube channel to **1,000+ subscribers** using unique content and creative strategy.  
-Although the channel was lost due to technical issues, the journey sharpened my:
-- Audience engagement skills  
+📹 I previously built a YouTube channel with **1,000+ subscribers**, improving my:
 - Creative direction  
-- Content consistency  
+- Audience engagement  
+- Consistency  
 - Storytelling mindset  
 
-🧠 My mission:  
-**Merge technology + creativity + storytelling to craft meaningful digital experiences.**
+🧠 My focus:  
+**Merging technology + creativity to build meaningful digital experiences.**
 
 ---
 
-# 📂 Projects I'm Currently Working On
+# 📂 Projects I'm Working On
+
+### 🧠 **AI Document Brain**
+A smart system where users upload documents (PDFs, notes, images), and AI extracts, understands, and allows chatting/searching through the content.  
+**Features:** OCR → Embeddings → Vector Search → Chat → Summaries.
 
 ---
 
-## 🧠 **1. AI Document Brain — Upload → Search → Chat → Actions**
-
-A powerful AI system where users can upload documents (PDFs, notes, images, handwritten pages), and the AI builds a searchable “brain” from them.
-
-### ✔️ What it does
-- OCR extraction for PDFs, images, handwritten content  
-- Clean → chunk → embed text  
-- Semantic search using vector database  
-- Chat with your documents  
-- Summaries, explanations, reports, actionable insights  
-
-### 🔧 Tech Pipeline
-- **OCR**: Tesseract / EasyOCR  
-- **Text Processing**: Cleaning, chunking  
-- **Embeddings**: Sentence Transformers / custom fine-tuned model  
-- **Vector DB**: Pinecone / Milvus / FAISS  
-- **Backend**: FastAPI  
-- **Frontend**: React  
-- **LLM**: RAG-based chat system  
-
-### ⭐ Advanced Features (in progress)
-- Multi-document summarizer  
-- Mind-map generator  
-- Quiz/exam creator  
-- AI Report writer  
-
----
-
-## 🚦 **2. Traffic Surveillance AI (Computer Vision + Deep Learning + IoT)**
-
-An intelligent system capable of real-time traffic monitoring using cameras + deep learning.
-
-### ✔️ What it does
-- Detects & tracks vehicles  
-- Predicts congestion  
-- Detects accidents  
-- Sends real-time alerts  
-
-### 🔧 Tech Stack
-- **YOLOv8** for object detection  
-- **OpenCV** tracking  
-- **LSTM** for traffic flow prediction  
-- **Web Dashboard** for analytics  
-- **Raspberry Pi** for edge deployment  
-
-### ⭐ Advanced Add-ons
-- Number plate detection  
-- Speed estimation  
-- Rule violation detection  
+### 🚦 **Traffic Surveillance AI**
+An AI vision system for vehicle detection, tracking, congestion prediction, and traffic insights using YOLOv8 + OpenCV.  
+**Features:** real-time detection, speed/accident insights, violation alerts.
 
 ---
 
@@ -125,17 +80,17 @@ An intelligent system capable of real-time traffic monitoring using cameras + de
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.instagram.com/p_umesh25?igsh=cHFrMHE2OGJpdnho" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
-</a>
+  <a href="https://www.instagram.com/p_umesh25?igsh=cHFrMHE2OGJpdnho" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+  </a>&nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/in/25umesh" target="_blank">
-  <img src="httpsillicons.dev/icons?i=linkedin" height="45"/>
-</a>
+  <a href="https://www.linkedin.com/in/25umesh" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>&nbsp;&nbsp;
 
-<a href="mailto:pagadojuumesh869@gmail.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
+  <a href="mailto:pagadojuumesh869@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
 </p>
 
 ---
@@ -145,7 +100,7 @@ An intelligent system capable of real-time traffic monitoring using cameras + de
 
 ---
 
-## 🧩 Bonus
+## 🧩 Profile Views
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=25umesh&label=Profile%20Views&color=blueviolet&style=flat-square" />
 </p>
