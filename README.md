@@ -1,3 +1,8 @@
+<!-- PROFILE BANNER -->
+<p align="center">
+  <img src="https://i.imgur.com/Vk7JqvF.jpg" alt="Banner" width="100%" />
+</p>
+
 <h1 align="center">🎬 Pagadoju Umesh</h1>
 <h3 align="center">Full Stack Developer | Android Developer | Creative Technologist | Director of Ideas</h3>
 
@@ -19,53 +24,51 @@ I am **Pagadoju Umesh**, a Full Stack Developer and Creative Technologist curren
 **Methodist College of Engineering and Technology**.
 
 I build **web and Android applications**, taking ideas from concept → architecture → deployment.  
-My work blends **technology, direction, and storytelling** to create digital products that feel **crafted, intentional, and cinematic**.
+My work blends **technology, direction, and storytelling** to create digital products that feel **crafted and cinematic**.
 
 Beyond tech, I’m a **content creator** skilled in:
 - Video editing 🎥  
 - Photography 📸  
-- Visual storytelling 🎬  
+- Storytelling 🎬  
 
-I previously built a **YouTube channel with 1,000+ subscribers**, sharpening my creative direction and audience engagement skills.
+I previously built a **YouTube channel with 1,000+ subscribers**, learning creative direction and audience engagement.
 
 ---
 
 # 🚀 Currently Building  
 ## **AI Document Brain — Upload → Search → Chat → Action**
 
-A high-performance AI system that transforms uploaded documents into a **searchable intelligence engine**.
+A high-performance AI engine that turns documents into a **searchable intelligence system**.
 
 ---
 
 # 🧠 Architecture Overview  
-*(Short, professional & cinematic)*
 
 - **OCR Layer:** Tesseract / EasyOCR  
 - **Text Pipeline:** Cleaning + Chunking  
 - **Embedding Engine:** Custom embeddings  
-- **Vector Store:** Semantic search retrieval  
-- **LLM Core:** Fine-tuned for reasoning  
+- **Vector Store:** Semantic search  
+- **LLM Core:** Fine-tuned reasoning model  
 - **Frontend:** Chat-based UI  
 - **Backend:** FastAPI / Django  
 
-🎯 *Designed like a film pipeline — every component plays its role.*
+🎯 *Designed like a film pipeline — every module plays its part.*
 
 ---
 
 # 🎬 Featured Projects  
-*(Minimal, director-style descriptions + SVG icons)*
 
-### <img src="https://www.svgrepo.com/show/452213/artificial-intelligence.svg" width="30"/> **AI Document Brain**  
+### <img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" width="26"/> **AI Document Brain**  
 Turns documents into an intelligent searchable knowledge engine.
 
-### <img src="https://www.svgrepo.com/show/354259/react.svg" width="30"/> **Full Stack Web Apps**  
-Modern web applications built with MERN, Django, and FastAPI.
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="26"/> **Full Stack Web Apps**  
+Modern web applications built with MERN, Django, FastAPI.
 
-### <img src="https://www.svgrepo.com/show/353423/android.svg" width="30"/> **Android Applications**  
-Clean architecture–based Android apps with intuitive UI.
+### <img src="https://cdn-icons-png.flaticon.com/512/732/732225.png" width="26"/> **Android Applications**  
+Clean architecture apps with modern UI/UX.
 
-### <img src="https://www.svgrepo.com/show/452200/video-editing.svg" width="30"/> **Creative Direction Projects**  
-Cinematic editing and storytelling experiments.
+### <img src="https://cdn-icons-png.flaticon.com/512/2991/2991108.png" width="26"/> **Creative Direction Projects**  
+Cinematic editing & digital storytelling.
 
 ---
 
@@ -97,20 +100,23 @@ Cinematic editing and storytelling experiments.
 ---
 
 # 📫 Connect With Me  
+### *(All icons fixed — PNG, GitHub-safe, visible everywhere)*
 
-<!-- Connect Icons Row -->
 <p align="center">
 
-  <a href="mailto:pagadojuumesh869@gmail.com" target="_blank" style="margin: 0 15px;">
-    <img src="https://www.svgrepo.com/show/223047/mail.svg" width="45" alt="Email" title="Email Me" />
+  <!-- Email -->
+  <a href="mailto:pagadojuumesh869@gmail.com" style="margin: 0 20px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="48" alt="Email" title="Email Me" />
   </a>
 
-  <a href="https://www.linkedin.com/in/25umesh" target="_blank" style="margin: 0 15px;">
-    <img src="https://www.svgrepo.com/show/448234/linkedin.svg" width="45" alt="LinkedIn" title="LinkedIn Profile" />
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/25umesh" style="margin: 0 20px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="48" alt="LinkedIn" title="LinkedIn Profile" />
   </a>
 
-  <a href="https://www.instagram.com/p_umesh25" target="_blank" style="margin: 0 15px;">
-    <img src="https://www.svgrepo.com/show/452229/instagram-1.svg" width="45" alt="Instagram" title="Instagram Profile" />
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/p_umesh25" style="margin: 0 20px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="48" alt="Instagram" title="Instagram Profile" />
   </a>
 
 </p>
@@ -126,5 +132,5 @@ Cinematic editing and storytelling experiments.
 </p>
 
 <p align="center">
-  ⭐ <strong>Star my repositories if you enjoy my work — it fuels the next creation.</strong> ⭐
+  ⭐ <strong>Star my repositories — your support fuels the next creation.</strong> ⭐
 </p>
