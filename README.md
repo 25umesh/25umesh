@@ -3,62 +3,66 @@
 
 ---
 
-## 🛠️ Tech Stack — My Toolkit
+## 🌟 About Me
 
-### 💻 Languages & Frameworks
+I’m **Pagadoju Umesh**, a passionate Full Stack Developer currently pursuing my **B.Tech (3rd Year)** at  
+**Methodist College of Engineering and Technology**.
+
+💻 I build **web and Android applications**, taking projects from concept to deployment with a focus on clean architecture, usability, and purposeful design. I enjoy solving real-world problems using modern technologies and crafting end-to-end solutions that feel polished and meaningful.
+
+🎥 Outside of development, I explore the creative world through **video editing, photography, and cinematography**. These fields shaped my sense of style, composition, and flow—skills that naturally influence how I design and build digital experiences.
+
+📹 I previously built a YouTube channel with **1k+ subscribers**, grown entirely through original content before it was lost due to technical issues.  
+That journey strengthened my abilities in:
+
+- audience engagement  
+- creative direction  
+- editing and storytelling  
+- consistency and content strategy  
+
+🧠 With a strong interest in creativity and narrative thinking, I aim to create products where **technology, design, and storytelling converge**—building experiences that not only function well, but also *feel crafted*.
+
+---
+
+## 🚀 Featured Project
+
+### 🧠 AI Document Brain — *Transforming Notes into Searchable Intelligence*
+
+A system designed to convert static documents into interactive, conversational knowledge using:
+
+- OCR  
+- Embeddings  
+- Vector Search  
+- Document Chat  
+- Intelligent Summaries  
+
+🎯 **Purpose:**  
+Help users access what they know—faster, smarter, and more intuitively.
+
+---
+
+## 🛠️ Tech Stack  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,firebase,androidstudio,python,opencv" height="45"/>
 </p>
 
-### 🔧 Tools & Platforms
+### Tools  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux" height="45"/>
 </p>
 
 ---
 
-## 🪄 About Me  
-I’m **Umesh**, a developer who enjoys combining technical depth with creative thinking to build polished and meaningful digital experiences.
-
-Currently pursuing my **B.Tech (3rd Year)** at  
-**Methodist College of Engineering and Technology**, I work across full-stack development, Android development, and AI-powered tools.
-
-My experience with visual creativity — filming, editing, photography — shaped how I build software:
-
-- I break ideas down thoughtfully  
-- I design with clarity and flow  
-- I build with structure and consistency  
-- I refine details with intention  
-
-### 🌟 Philosophy  
-**“Good software feels crafted — not just coded.”**
-
----
-
-## 🚀 Featured Project
-
-### 🧠 AI Document Brain — *Turning Notes Into Searchable Intelligence*
-A system built to transform static documents into interactive, searchable knowledge.
-
-✔ OCR Processing  
-✔ Embeddings & Vector Search  
-✔ Conversational Querying  
-✔ Instant Summaries  
-✔ Multi-format Input Support  
-
-🎯 **Goal:**  
-Help users interact with their notes the way they think — naturally and effortlessly.
-
----
-
-## 🌍 Connect With Me  
+## 🌐 Connect With Me  
 <p align="left">
   <a href="https://www.instagram.com/p_umesh25?igsh=cHFrMHE2OGJpdnho" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="40" />
   </a>&nbsp;&nbsp;
+
   <a href="https://www.linkedin.com/in/25umesh" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>&nbsp;&nbsp;
+
   <a href="mailto:pagadojuumesh869@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
@@ -67,7 +71,7 @@ Help users interact with their notes the way they think — naturally and effort
 ---
 
 ## ✨ Thought  
-<h3 align="center"><i>"Code builds logic. Creativity builds experience."</i></h3>
+<h3 align="center"><i>"Code builds the function. Creativity builds the experience."</i></h3>
 
 ---
 
