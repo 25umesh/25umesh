@@ -40,12 +40,6 @@ A smart system where users upload documents (PDFs, notes, images), and AI extrac
 
 ---
 
-### 🚦 **Traffic Surveillance AI**
-An AI vision system for vehicle detection, tracking, congestion prediction, and traffic insights using YOLOv8 + OpenCV.  
-**Features:** real-time detection, speed/accident insights, violation alerts.
-
----
-
 ## 🛠️ Tech Stack
 
 ### **Languages & Frameworks**
