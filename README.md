@@ -1,8 +1,3 @@
-<!-- PROFILE BANNER -->
-<p align="center">
-  <img src="https://i.imgur.com/Vk7JqvF.jpg" alt="Banner" width="100%" />
-</p>
-
 <h1 align="center">🎬 Pagadoju Umesh</h1>
 <h3 align="center">Full Stack Developer | Android Developer | Creative Technologist | Director of Ideas</h3>
 
