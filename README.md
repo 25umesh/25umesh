@@ -54,23 +54,6 @@ A smart system where users upload documents (PDFs, notes, images), and AI extrac
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=25umesh&show_icons=true&theme=radical&hide_border=true" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=25umesh&layout=compact&theme=radical&hide_border=true" height="160px"/>
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=25umesh&theme=radical&hide_border=true" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
