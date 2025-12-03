@@ -95,7 +95,6 @@ Cinematic editing & digital storytelling.
 ---
 
 # 📫 Connect With Me  
-### *(All icons fixed — PNG, GitHub-safe, visible everywhere)*
 
 <p align="center">
 
