@@ -1,3 +1,8 @@
+<!-- PROFILE BANNER -->
+<p align="center">
+  <img src="https://i.imgur.com/Vk7JqvF.jpg" alt="Banner" width="100%" />
+</p>
+
 <h1 align="center">🎬 Pagadoju Umesh</h1>
 <h3 align="center">Full Stack Developer | Android Developer | Creative Technologist | Director of Ideas</h3>
 
@@ -19,27 +24,32 @@ I am **Pagadoju Umesh**, a Full Stack Developer and Creative Technologist curren
 **Methodist College of Engineering and Technology**.
 
 I build **web and Android applications**, taking ideas from concept → architecture → deployment.  
-My work blends **technology, direction, and storytelling** to create digital products that feel **designed, intentional, and cinematic**.
+My work blends **technology, direction, and storytelling** to create digital products that feel **crafted, intentional, and cinematic**.
 
-Beyond tech, I’m a **content creator**—skilled in video editing, photography, and visual storytelling.  
-I previously built a **YouTube channel with 1,000+ subscribers**, strengthening my skills in creative direction and audience engagement.
+Beyond tech, I’m a **content creator** skilled in:
+- Video editing 🎥  
+- Photography 📸  
+- Visual storytelling 🎬  
+
+I previously built a **YouTube channel with 1,000+ subscribers**, sharpening my creative direction and audience engagement skills.
 
 ---
 
 # 🚀 Currently Building  
 ## **AI Document Brain — Upload → Search → Chat → Action**
 
-A high-performance AI system that converts documents into a **searchable intelligence engine**.
+A high-performance AI system that transforms uploaded documents into a **searchable intelligence engine**.
 
 ---
 
-# 🧠 Architecture Overview (Short & Professional)
+# 🧠 Architecture Overview  
+*(Short, professional & cinematic)*
 
 - **OCR Layer:** Tesseract / EasyOCR  
 - **Text Pipeline:** Cleaning + Chunking  
 - **Embedding Engine:** Custom embeddings  
-- **Vector Store:** Semantic search  
-- **LLM Core:** Fine-tuned for document reasoning  
+- **Vector Store:** Semantic search retrieval  
+- **LLM Core:** Fine-tuned for reasoning  
 - **Frontend:** Chat-based UI  
 - **Backend:** FastAPI / Django  
 
@@ -48,19 +58,19 @@ A high-performance AI system that converts documents into a **searchable intelli
 ---
 
 # 🎬 Featured Projects  
-*(With minimal, clean professional descriptions + SVG icons)*
+*(Minimal, director-style descriptions + SVG icons)*
 
 ### <img src="https://www.svgrepo.com/show/452213/artificial-intelligence.svg" width="30"/> **AI Document Brain**  
-An AI system that turns documents into a searchable knowledge engine.
+Turns documents into an intelligent searchable knowledge engine.
 
-### <img src="https://www.svgrepo.com/show/354259/react.svg" width="30"/> **Full Stack Web Applications**  
-Modern, scalable applications built with MERN, Django, and FastAPI.
+### <img src="https://www.svgrepo.com/show/354259/react.svg" width="30"/> **Full Stack Web Apps**  
+Modern web applications built with MERN, Django, and FastAPI.
 
 ### <img src="https://www.svgrepo.com/show/353423/android.svg" width="30"/> **Android Applications**  
-Practical and creative Android apps built with clean architecture.
+Clean architecture–based Android apps with intuitive UI.
 
-### <img src="https://www.svgrepo.com/show/452200/video-editing.svg" width="30"/> **Creative Direction + Editing Projects**  
-Cinematic video editing, photography, and content design.
+### <img src="https://www.svgrepo.com/show/452200/video-editing.svg" width="30"/> **Creative Direction Projects**  
+Cinematic editing and storytelling experiments.
 
 ---
 
@@ -85,7 +95,7 @@ Cinematic video editing, photography, and content design.
 ### 📱 **Mobile**
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
 
-### 🧠 **AI / ML**
+### 🤖 **AI / ML**
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 
@@ -93,12 +103,33 @@ Cinematic video editing, photography, and content design.
 
 # 📫 Connect With Me  
 
-📧 **Email:** pagadojuumesh869@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/25umesh  
-📸 **Instagram:** https://www.instagram.com/p_umesh25?igsh=cHFrMHE2OGJpdnho  
+<!-- Connect Icons Row -->
+<p align="center">
+
+  <a href="mailto:pagadojuumesh869@gmail.com" target="_blank" style="margin: 0 15px;">
+    <img src="https://www.svgrepo.com/show/223047/mail.svg" width="45" alt="Email" title="Email Me" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/25umesh" target="_blank" style="margin: 0 15px;">
+    <img src="https://www.svgrepo.com/show/448234/linkedin.svg" width="45" alt="LinkedIn" title="LinkedIn Profile" />
+  </a>
+
+  <a href="https://www.instagram.com/p_umesh25" target="_blank" style="margin: 0 15px;">
+    <img src="https://www.svgrepo.com/show/452229/instagram-1.svg" width="45" alt="Instagram" title="Instagram Profile" />
+  </a>
+
+</p>
 
 ---
 
+# 🎬 Let’s Work Together  
+
 <p align="center">
-⭐ *If my work inspires you, consider giving a star. It fuels the next creation.*  
+  <em>"If the idea is strong, I can build it.  
+  If the story is powerful, I can direct it.  
+  If the vision is clear, I can bring it to life."</em>
+</p>
+
+<p align="center">
+  ⭐ <strong>Star my repositories if you enjoy my work — it fuels the next creation.</strong> ⭐
 </p>
