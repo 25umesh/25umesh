@@ -1,56 +1,61 @@
 <h1 align="center">🎬 Pagadoju Umesh</h1>
-<h3 align="center">Full Stack Developer | Android Developer | Creative Technology Director</h3>
+<h3 align="center">Full Stack Developer | Android Developer | Creative Technologist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%238A2BE2&size=24&center=true&vCenter=true&width=550&lines=Full+Stack+Engineer;Android+Developer;AI+Enthusiast;Creative+Technologist;Software+%2B+Direction+Mindset" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%238A2BE2&size=24&center=true&vCenter=true&width=550&lines=Full+Stack+Engineer;Android+Developer;AI+Explorer;Creative+Technologist;Design+Driven+Developer" />
 </p>
 
 ---
 
-## 🎥 Director’s Introduction
+## 🪄 About Me
 
-I’m **Umesh**, a developer who approaches software the way a director approaches cinema —  
-with **clarity, composition, storytelling, and precision**.
+I’m **Umesh**, a developer who blends engineering with creativity.
 
 Currently pursuing my **B.Tech (3rd Year)** at  
-**Methodist College of Engineering and Technology**, I specialize in building **full-stack applications, Android apps, and AI-driven tools** from scratch.
+**Methodist College of Engineering and Technology**, I enjoy building products that focus on:
 
-My background in filmmaking, photography, and digital storytelling has shaped the way I build technology:
+- clarity in design  
+- depth in functionality  
+- meaningful user experience  
+- visually thoughtful interactions  
 
-- I script ideas like a storyteller  
-- I design like a visual creator  
-- I develop like an engineer  
-- I refine like an editor  
+My background in video creation, photography, and editing shaped the way I think about technology:
 
-### 🎬 My Creative-Engineering Philosophy  
-**“Technology becomes powerful when it is crafted with intention — like a film, every feature should serve a purpose.”**
+- I break ideas down like scenes  
+- I design interactions with a sense of flow  
+- I develop systems with structure and rhythm  
+- I refine projects with attention to detail  
+
+### 🌟 Philosophy  
+**“Good software doesn’t just work — it feels crafted.”**
 
 ---
 
 ## 🚀 Featured Project
 
 ### 🧠 **AI Document Brain — Turning Notes Into a Searchable Intelligence**
-A production-level system that converts documents into **conversational knowledge**.
+
+A system designed to make documents *interactive, searchable, and conversational.*
 
 ✔ OCR Pipeline  
-✔ Embeddings + Vector Database  
+✔ Embeddings & Vector Database  
 ✔ Semantic Search  
-✔ Chat with any document  
+✔ Chat with Documents  
 ✔ Intelligent Summaries  
 
 🎯 **Goal:**  
-Allow students, professionals, and teams to “talk to their notes” and get meaningful answers instantly.
+Help users understand, search, and interact with their knowledge effortlessly.
 
 ---
 
-## 🛠️ Tech Stack — My Production Suite
+## 🛠️ Tech Stack — My Toolkit
 
-### 🎬 Core Languages & Frameworks  
+### 💻 Languages & Frameworks  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,firebase,androidstudio,python,opencv" height="45"/>
 </p>
 
-### 🧰 Tools, Platforms & Creative Gear  
+### 🔧 Tools & Platforms  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux" height="45"/>
 </p>
@@ -58,7 +63,6 @@ Allow students, professionals, and teams to “talk to their notes” and get me
 ---
 
 ## 🌍 Connect With Me  
-Let’s build something meaningful — technically strong, creatively driven, and user-focused.
 
 <p align="left">
   <a href="https://www.instagram.com/p_umesh25?igsh=cHFrMHE2OGJpdnho" target="_blank">
@@ -76,8 +80,8 @@ Let’s build something meaningful — technically strong, creatively driven, an
 
 ---
 
-## ✨ Creative Director’s Quote  
-<h3 align="center"><i>"Code structures the experience. Creativity gives it soul."</i></h3>
+## ✨ Thought of the Day  
+<h3 align="center"><i>"Code builds functionality. Creativity builds experience."</i></h3>
 
 ---
 
